@@ -1,0 +1,2 @@
+# Collatz-conjecture
+Implement a Python function collatz(n) that does the following. It takes a given integer 𝑛 and if 𝑛 is even, it divides 𝑛 by 2. Otherwise, it multiplies 𝑛 by 3 and adds one to it. Then, this number is added to a list 𝑙. The new number is called 𝑛 and this procedure is repeated until 𝑛 is equal to 1. At the end the function returns the list 𝑙. (The question whether this sequence will reach 1 for every starting value is an unsolved problem in mathematics. Test e. g. with 2223.)
